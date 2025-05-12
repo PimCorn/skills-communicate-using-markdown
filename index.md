@@ -8,6 +8,10 @@ var myVar = "Hello, world!";
 ```
 
 
+- [ ] This is my first list item: Create task list, done.
+- [ ] This is my second list item: Expand task list done.
+- [ ] Show my task list to the world: In progress
+
 ![A funny picture of women posed in a man's toilet room.](https://github.com/user-attachments/assets/0cfe4048-43e1-4316-b6c1-58f14a63d609)
 
 
