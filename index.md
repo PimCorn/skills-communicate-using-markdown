@@ -1,3 +1,6 @@
+![A funny picture of women posed in a man's toilet room.](https://github.com/user-attachments/assets/0cfe4048-43e1-4316-b6c1-58f14a63d609)
+
+
 # This must be an H1
 ## This must be an H2
 ###### This must be an H6
